@@ -10,7 +10,7 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**Affect release**
+**Affected release**
 Last release this was confirmed on, eg 2.0p-317
 
 **To Reproduce**
