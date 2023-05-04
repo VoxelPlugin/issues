@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug report - INTERNAL USE ONLY, ASK ON DISCORD IF YOU FIND A BUG
 about: Create a report to help us improve
 title: ''
 labels: ''
